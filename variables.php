@@ -12,10 +12,10 @@
     $variable = "Hola"; //TIPO STRING
     echo $variable;
     $x = 3; //TIPO ENTERO
-    $X = 5 //TIPO ENTERO (PERO SON VARIABLES DIFERENTES NO DISTENGUE ENTRE MAYUSCULAS Y MINUSCULAS )
-    echo $x 
+    $X = 5; //TIPO ENTERO (PERO SON VARIABLES DIFERENTES NO DISTENGUE ENTRE MAYUSCULAS Y MINUSCULAS )
+    echo $x; 
     $decimales= 6.25;//TIPO DECIMAL
-    echo $decimales
+    echo $decimales;
     $var = true; //TIPO BOOLEANO
     echo $var;
     ?>
